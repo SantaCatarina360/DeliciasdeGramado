@@ -1,9 +1,9 @@
 {
  "background_color": "#46291C",
+ "theme_color": "#46291C",
  "start_url": "index.html",
  "name": "Delicias de Gramado",
  "display": "fullscreen",
- "theme_color": "#46291C",
  "icons": [
   {
    "type": "image/png",
